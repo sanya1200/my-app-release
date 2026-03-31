@@ -1,1 +1,4 @@
 Initial App Structure
+Feature 1: User Login
+Feature 2: Dashboard UI
+Bugfix: Fixed UI alignment
